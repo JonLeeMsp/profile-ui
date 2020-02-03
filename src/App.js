@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
 import Header from './components/header/Header';
-import Base from './components/Base/Base';
+import Base from './components/base/Base';
 
 function App() {
   return (
