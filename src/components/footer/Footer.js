@@ -2,11 +2,6 @@ import React from 'react';
 import { Component } from 'react';
 import PropTypes from 'prop-types';
 import { withStyles } from '@material-ui/styles';
-import ProfilePicture from '../../images/profile_picture.jpg'
-import Avatar from '@material-ui/core/Avatar';
-import Grid from '@material-ui/core/Grid';
-import Typography from '@material-ui/core/Typography';
-import Resume from '../../images/Jonathan_Lee_Resume.pdf'
 
 const styles = theme => ({
   root: {
